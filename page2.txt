@@ -1,0 +1,4 @@
+.About Us
+We are a pan-galactic mega-corporation with outposts on every major civilized world that serves decent coffee.
+Point your galactic browser at *intergal://testcorp.mega*
+(You may need to upgrade the browser)
