@@ -1,4 +1,16 @@
-.This is the test index file
+.This is the test website
 $VER=2.5 //writeup version
--See how this works!
--And another line
+$block_id=home
+----t //terrible way to do a menu!
+| [[#home Home]] | [[#widgets Widgets]] | [[#about About us]] |
+----
+
+$headingbase=2
+.Megatest home page
+Wow, what an awsome website!!
+
+$block_id=widgets
+$include page1.txt
+
+$block_id=about
+$include page2.txt
