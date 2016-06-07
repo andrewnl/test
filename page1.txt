@@ -3,7 +3,7 @@
 -And some pictures:
 [[images/blue-widget.png Blue Widget]]/
 Taken from [[https://play.google.com/store/apps/details?id=com.maven.player3.widget.blue this site]]
--If that's not your scene, then _why not try the red version?
+-If that's not your scene, then _why not try the red version_?
 
 [[images/red-widget.jpg Blue Widget]]/
 Taken from [[http://spottymoon.com/Red_widget-details.aspx this site]]
